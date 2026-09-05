@@ -895,16 +895,70 @@ Check DNS:
 ping google.com
 ```
 
----
-
 # 📚 Additional Resources
 
-* 🌐 **VMware Workstation Pro — Official Website**
-* 📦 **Arch User Repository — VMware Workstation**
-* 🐧 **Arch Linux — Official Website**
-* 📚 **Arch Linux Wiki — VMware**
-* 📚 **Arch Linux Wiki — Kernel Modules**
-* 📚 **open-vm-tools Documentation**
+* 🌐 **[VMware Workstation Pro — Official Downloads](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)** — official VMware Workstation Pro downloads through the Broadcom Support Portal.
+
+* 📖 **[VMware Workstation Pro — Official Installation Guide](https://knowledge.broadcom.com/external/article/387947/installing-vmware-workstation-pro.html)** — official Broadcom documentation for installing VMware Workstation Pro on Linux and Windows.
+
+* 📥 **[Broadcom — Download VMware Workstation Pro](https://knowledge.broadcom.com/external/article/344595/downloading-vmware-workstation-pro.html)** — official instructions for downloading current VMware Workstation Pro releases.
+
+* 🐧 **[Arch Linux Wiki — VMware](https://wiki.archlinux.org/title/VMware)** — Arch-specific installation, kernel modules, DKMS, networking, USB and systemd service configuration.
+
+* 📦 **[Arch User Repository — vmware-workstation](https://aur.archlinux.org/packages/vmware-workstation)** — community-maintained AUR package used to install VMware Workstation on Arch Linux.
+
+* 🔗 **[AUR — VMware Workstation Git Repository](https://aur.archlinux.org/vmware-workstation.git)** — Git repository used to clone the AUR package manually.
+
+* 📚 **[Broadcom VMware Workstation Documentation](https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro.html)** — documentation and product information for VMware Workstation Pro.
+
+* 📰 **[VMware Workstation 26H1 — Official Announcement](https://blogs.vmware.com/cloud-foundation/2026/05/14/announcing-vmware-workstation-and-fusion-26h1/)** — official announcement for the current 26H1 generation of VMware Workstation Pro.
+
+---
+
+# 🔗 Useful Links
+
+### VMware
+
+```text
+https://support.broadcom.com/
+https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro
+https://knowledge.broadcom.com/external/article/387947/installing-vmware-workstation-pro.html
+```
+
+### Arch Linux
+
+```text
+https://archlinux.org/
+https://wiki.archlinux.org/title/VMware
+https://wiki.archlinux.org/title/Dynamic_Kernel_Module_Support
+```
+
+### AUR
+
+```text
+https://aur.archlinux.org/packages/vmware-workstation
+https://aur.archlinux.org/vmware-workstation.git
+```
+
+---
+
+# ⭐ Recommended Sources
+
+For an Arch Linux installation, the most useful resources are:
+
+1. **ArchWiki — VMware**
+   https://wiki.archlinux.org/title/VMware
+
+2. **AUR — vmware-workstation**
+   https://aur.archlinux.org/packages/vmware-workstation
+
+3. **Broadcom — VMware Workstation Pro Downloads**
+   https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro
+
+4. **Broadcom — Installation Guide**
+   https://knowledge.broadcom.com/external/article/387947/installing-vmware-workstation-pro.html
+
+> 💡 **Note:** VMware Workstation Pro is currently available free of charge for personal, educational, and commercial use according to Broadcom's current VMware Workstation information. A Broadcom Support Portal account is required to download the official installer.
 
 ---
 
